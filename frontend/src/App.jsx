@@ -1,38 +1,3 @@
-// import React from 'react';
-// import Navbar from './components/Navbar/Navbar';
-// import Home from './sections/Home/Home';
-// import About from './sections/About/About';
-// import Skills from './sections/Skills/Skills';
-// import Projects from './sections/Projects/Projects';
-// import Experience from './sections/Experience/Experience';
-// import Achievements from './sections/Achievements/Achievements';
-// import Contact from './sections/Contact/Contact';
-// import Footer from './components/Footer/Footer';
-// import CustomCursor from './components/CustomCursor/CustomCursor';
-
-// function App() {
-//   return (
-//     <div className="relative">
-//       <CustomCursor />
-//       <Navbar />
-//       <Home />
-//       <About />
-//       <Skills />
-//       <Projects />
-//       <Experience />
-//       <Achievements />
-//       <Contact />
-//       <Footer />
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
-
-
-
 import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar/Navbar';
 import Home from './sections/Home/Home';

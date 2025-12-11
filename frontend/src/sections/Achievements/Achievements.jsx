@@ -245,7 +245,8 @@ const Achievements = () => {
 
       <div className="max-w-[1400px] mx-auto relative z-10">
         {/* Section Title */}
-        <h2 className="text-[60px] uppercase tracking-[3px] mb-[50px] text-center relative">
+        <h2 className=" text-[36px] md:text-[60px] uppercase tracking-[3px] mb-[50px] text-center relative ">
+
           Achievements
           <span className="absolute bottom-[-15px] left-1/2 -translate-x-1/2 w-[100px] h-[4px] bg-gradient-to-r from-transparent via-[#ecff1b] to-transparent" />
         </h2>

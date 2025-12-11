@@ -1,0 +1,26 @@
+export const experienceData = [
+  {
+    id: 1,
+    category: 'Internship',
+    title: 'Frontend Intern',
+    company: 'SRKWebApp Innovations LLP',
+    duration: '2 Months',
+    period: 'May 2025 – June 2025',
+    description: 'During my internship, I worked on real client projects involving WordPress development, UI/UX design, and frontend development. I contributed to building responsive web pages using HTML, CSS, JavaScript, and React, customized WordPress themes, and created interactive UI components for client websites.',
+    techStack: ['React', 'Html', 'Css', 'JavaScript', 'WordPress'],
+    image: '/images/wedding-web.png',
+    link: '#',
+  },
+  {
+    id: 2,
+    category: 'Key Project',
+    title: 'Contact Page (Custom Build)',
+    company: 'Frontend Developer',
+    duration: '1 Developers',
+    period: 'Successfully Deployed',
+    description: 'I developed a professional contact page using React.js and Tailwind CSS. The page includes an interactive contact form, a modern and minimal UI, and a fully responsive layout. It is designed to be easily integration-ready for client websites, with smooth animations and a simple dashboard-style appearance.',
+    techStack: ['Html', 'Tailwind', 'JavaScript', 'React.js'],
+    image: '/images/contact-page.png',
+    link: '#',
+  },
+];

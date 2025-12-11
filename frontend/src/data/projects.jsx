@@ -1,0 +1,38 @@
+export const projectsData = [
+  {
+    id: 1,
+    title: 'ORBITTO',
+    subtitle: 'RANDOM CHAT APP',
+    description: 'Orbitto is a MERN + Socket.io real-time chat application inspired by Omegle and Discord. It supports live messaging, image sharing, user presence status, editable profiles, and switchable UI themes. With smooth socket-based communication and a modern interface, Orbitto highlights my ability to build interactive and scalable real-time applications.',
+    image: '/images/orbitto.png',
+    demoLink: 'https://orbittoxx.onrender.com/login',
+    reverse: false,
+  },
+  {
+    id: 2,
+    title: 'CODENIX',
+    subtitle: 'COURSE SELLING APP',
+    description: 'CodeNix is a MERN Stack course-selling platform where users can browse courses, buy them securely via Stripe, and track their purchases through a personal dashboard. It includes full user authentication along with an admin panel to create, update, and manage course content. Built with React, Node.js, Express, and MongoDB, CodeNix also uses Cloudinary for media, JWT for security, and Zod for validation. This project helped me understand real-world full-stack development, payment integration, and admin-level management',
+    image: '/images/Code-Nix.png',
+    demoLink: 'https://codenix.netlify.app/',
+    reverse: true,
+  },
+  {
+    id: 3,
+    title: 'CRAVECRAFT',
+    subtitle: 'FOOD COMMUNITY',
+    description: 'CraveCraft is a community-driven food sharing platform where users can upload their recipes, explore dishes from others, and interact with a growing food-loving community. It includes secure Login and Signup functionality, allowing users to save favorites, share posts, and manage their contributions. With a clean and responsive UI, CraveCraft makes discovering and sharing recipes simple and enjoyable.',
+    image: '/images/Crave-Craft.png',
+    demoLink: 'https://crave-craft-v0.vercel.app/',
+    reverse: false,
+  },
+  {
+    id: 4,
+    title: 'ROLL DICE',
+    subtitle: 'LUCK GAME',
+    description: 'Roll Dice is a fun React + Vite game that blends luck with simple logic. Players pick a number, roll the dice, and earn or lose points based on their choice. This project helped me master React state handling, conditional logic, and building reusable components. Built with React, Vite, useState, and Styled-Components, the game features a number selector, dice roller, rules section, and a live scoreboard.',
+    image: '/images/Roll-dice.png',
+    demoLink: 'https://role-dice-game-react.vercel.app/',
+    reverse: true,
+  },
+];

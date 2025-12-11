@@ -49,8 +49,8 @@ My goal was to create something unique and personal, reflecting my interest in *
 
 ---
 ## Demo
-
-🌐 **Live Website:** [Your Portfolio Link Here]
+[![Live on Render](https://img.shields.io/badge/Live-Render-46E3B7?style=for-the-badge&logo=render)](https://harsh-portfolio-2025-2.onrender.com)
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel)](https://harsh-portfolio-2025-git-main-harsh-adhikaris-projects-f6407523.vercel.app/)
 
 Experience the full portfolio with all animations and interactions!
 
